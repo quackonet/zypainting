@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZybookTesting", "ZybookTesting\ZybookTesting.vcxproj", "{1E0943AB-10E1-4FD5-B097-3BC2F746E546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E0943AB-10E1-4FD5-B097-3BC2F746E546}.Debug|x64.ActiveCfg = Debug|x64
+		{1E0943AB-10E1-4FD5-B097-3BC2F746E546}.Debug|x64.Build.0 = Debug|x64
+		{1E0943AB-10E1-4FD5-B097-3BC2F746E546}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E0943AB-10E1-4FD5-B097-3BC2F746E546}.Debug|x86.Build.0 = Debug|Win32
+		{1E0943AB-10E1-4FD5-B097-3BC2F746E546}.Release|x64.ActiveCfg = Release|x64
+		{1E0943AB-10E1-4FD5-B097-3BC2F746E546}.Release|x64.Build.0 = Release|x64
+		{1E0943AB-10E1-4FD5-B097-3BC2F746E546}.Release|x86.ActiveCfg = Release|Win32
+		{1E0943AB-10E1-4FD5-B097-3BC2F746E546}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAB8DC8-D2AF-4366-B330-86D45A8E8F0C}
+	EndGlobalSection
+EndGlobal
